@@ -12,8 +12,11 @@
 
 
 ## My stats
+<p align="left">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEViantUA&show_icons=true&theme=react)[![GitHub Streak](https://streak-stats.demolab.com?user=DEViantUa&theme=slateorange&locale=ru&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+</p>
 
 ## My tools
 <p align="center">
